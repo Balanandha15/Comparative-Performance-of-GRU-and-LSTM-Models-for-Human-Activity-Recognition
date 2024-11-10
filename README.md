@@ -1,0 +1,1 @@
+# Comparative-Performance-of-GRU-and-LSTM-Models-for-Human-Activity-Recognition
