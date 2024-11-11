@@ -19,6 +19,12 @@ Key Files
 
 - `Comparative Performance of GRU and LSTM Models for Human Activity Recognition.ipynb`: The main notebook that contains code for data loading, model definition, training, evaluation, and visualization of results.
 
+
+1. **Clone Repository**:
+   ```bash
+   git clone https://github.com/yourusername/human-activity-recognition.git
+   cd human-activity-recognition
+
 Abstract:
 
   Human Activity Recognition (HAR) is a crucial area in the field of wearable computing and healthcare, enabling the detection of daily activities using sensor data. This research focuses on the comparative performance of two recurrent neural network (RNN) architectures, Gated Recurrent Units (GRU) and Long Short-Term Memory (LSTM) networks, for human activity recognition. Using the UCI HAR dataset, which consists of sensor data from accelerometers and gyroscopes, we evaluate the performance of both models in terms of accuracy, training history, and confusion matrix. The results show that both GRU and LSTM models achieve high accuracy, with GRU slightly outperforming LSTM in terms of classification accuracy. This study highlights the potential of RNNs, particularly GRU and LSTM, in real-time activity monitoring and lays the foundation for further advancements in human activity recognition systems.
