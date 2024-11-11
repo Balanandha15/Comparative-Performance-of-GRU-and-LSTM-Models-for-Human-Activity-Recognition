@@ -7,6 +7,8 @@ This project provides a comparative analysis of two recurrent neural network (RN
  
 UCI Human Activity Recognition (HAR) Dataset: The dataset contains time-series data from accelerometers and gyroscopes. It includes labeled activities such as walking, sitting, and standing, allowing for the evaluation of model performance in multi-class classification.
 
+Dataset Download from : https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones
+
  Project Structure
 
   Data Preprocessing: The `DataLoader` class loads, scales, reshapes, and one-hot encodes the HAR dataset, preparing it for input into the RNN models.
